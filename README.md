@@ -13,10 +13,16 @@ This project can be tremendously useful in the healthcare industry and hospitals
 
 # To Run this:-
 You will need to install the following dependencies on your machine:-
-pip install pandas,
-pip install numpy,
-pip install pylab,
-pip install scipy,
-pip install sklearn.
-You will also have to download dataset in csv format which can be download from here: cell_samples.csv.
+
+`pip install pandas`
+
+`pip install numpy`
+
+`pip install pylab`
+
+`pip install scipy`
+
+`pip install sklearn`
+
+You will also have to download dataset in csv format, which can be download from here: `cell_samples.csv`
 Once all the libraries are successfully installed in your machine, copy the code and run to see if you don't get any errors.
